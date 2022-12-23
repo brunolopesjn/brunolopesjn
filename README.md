@@ -1,6 +1,22 @@
 # Olá! Seja bem vinde! <img src="https://github.com/leticiadasilva/leticiadasilva/blob/main/images/Hi.gif" width="30px">
 
 <code><img height="20" alt="Kotlin" src="https://raw.githubusercontent.com/brunolopesjn/brunolopesjn/main/img/kotlin.jpg"></code>
+<code><img height="20" alt="Go" src="https://raw.githubusercontent.com/brunolopesjn/brunolopesjn/main/img/golang.png"></code>
+<code><img height="20" alt="Python" src="https://raw.githubusercontent.com/brunolopesjn/brunolopesjn/main/img/python.png"></code>
+<code><img height="20" alt="Java" src="https://raw.githubusercontent.com/brunolopesjn/brunolopesjn/main/img/java.png"></code>
+<code><img height="20" alt="JavaScript" src="https://raw.githubusercontent.com/brunolopesjn/brunolopesjn/main/img/javascript.png"></code>
+<code><img height="20" alt="TypeScript" src="https://raw.githubusercontent.com/brunolopesjn/brunolopesjn/main/img/typescript.png"></code>
+<code><img height="20" alt="ZSH" src="https://raw.githubusercontent.com/brunolopesjn/brunolopesjn/main/img/zsh.png"></code>
+
+<center>
+  <table>
+    <tr>
+        <td><img width="335px" align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=profbrunolopes&hide=html&layout=compact&theme=swift" /></td>
+        <td><img width="400px" align="left" src="https://github-readme-stats.vercel.app/api?username=profbrunolopes&theme=swift"/></td>
+    </tr>   
+  </table>
+</center> 
+
 
 Meu nome é **Bruno Lopes**, mais conhecido como **Prof Bruno** ou simplesmente **Prof**. Atualmente atuo na [Trybe](https://betrybe.com) como Analista de Currículo, tenho experiência como professor universitário (Ciência da Computação, Engenharia de Computação e Análise e Desenvolvimento de Sistemas) e atuo na área de educação desde 2010.
 
@@ -21,15 +37,3 @@ Você pode me encontrar nas minhas redes sociais:
 <a href="https://www.linkedin.com/in/profbrunolopes"><img src="https://raw.githubusercontent.com/brunolopesjn/brunolopesjn/main/img/linkedin.png" width="20"></img></a> [LinkedIn](https://www.linkedin.com/in/profbrunolopes)
 
 <a href="mailto:contato@profbrunolopes.dev.br"><img src="https://raw.githubusercontent.com/brunolopesjn/brunolopesjn/main/img/email.png" width="20"></img></a> [Email](mailto:contato@profbrunolopes.dev.br)
-
----
-
-## Github Stats
-<center>
-  <table>
-    <tr>
-        <td><img width="335px" align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=profbrunolopes&hide=html&layout=compact&theme=swift" /></td>
-        <td><img width="400px" align="left" src="https://github-readme-stats.vercel.app/api?username=profbrunolopes&theme=swift"/></td>
-    </tr>   
-  </table>
-</center> 
