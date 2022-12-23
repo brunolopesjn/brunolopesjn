@@ -1,4 +1,4 @@
-# Olá! Seja bem vinde! <img src="https://github.com/leticiadasilva/leticiadasilva/blob/main/images/Hi.gif" width="30px">
+# Olá! Seja bem vinde! <img src="https://raw.githubusercontent.com/brunolopesjn/brunolopesjn/main/img/hi.gif" width="30px">
 
 <code><img height="40" alt="Kotlin" src="https://raw.githubusercontent.com/brunolopesjn/brunolopesjn/main/img/kotlin.jpg"></code>
 <code><img height="40" alt="Go" src="https://raw.githubusercontent.com/brunolopesjn/brunolopesjn/main/img/golang.png"></code>
