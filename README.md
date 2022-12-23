@@ -16,11 +16,11 @@ Você pode me encontrar nas minhas redes sociais:
 
 <a href="https://twitter.com/profbrunolopes"><img src="https://raw.githubusercontent.com/brunolopesjn/brunolopesjn/main/img/twitter.png" width="20"></img></a> [Twitter](https://twitter.com/profbrunolopes)
 
-<a href="https://www.instagram.com/profbrunolopes/"><img src="https://github.com/profbrunolopes/profbrunolopes/blob/main/img/instagram.png" width="20"></img></a> [Instagram](https://www.instagram.com/brunolopesjn)
+<a href="https://www.instagram.com/profbrunolopes/"><img src="https://raw.githubusercontent.com/brunolopesjn/brunolopesjn/main/img/instagram.png" width="20"></img></a> [Instagram](https://www.instagram.com/brunolopesjn)
 
-<a href="https://www.linkedin.com/in/profbrunolopes"><img src="https://github.com/profbrunolopes/profbrunolopes/blob/main/img/linkedin.png" width="20"></img></a> [LinkedIn](https://www.linkedin.com/in/profbrunolopes)
+<a href="https://www.linkedin.com/in/profbrunolopes"><img src="https://raw.githubusercontent.com/brunolopesjn/brunolopesjn/main/img/linkedin.png" width="20"></img></a> [LinkedIn](https://www.linkedin.com/in/profbrunolopes)
 
-<a href="mailto:contato@profbrunolopes.dev.br"><img src="https://github.com/profbrunolopes/profbrunolopes/blob/main/img/email.png" width="20"></img></a> [Email](mailto:contato@profbrunolopes.dev.br)
+<a href="mailto:contato@profbrunolopes.dev.br"><img src="https://raw.githubusercontent.com/brunolopesjn/brunolopesjn/main/img/email.png" width="20"></img></a> [Email](mailto:contato@profbrunolopes.dev.br)
 
 ---
 
