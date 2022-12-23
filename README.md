@@ -1,12 +1,13 @@
 # Olá! Seja bem vinde! <img src="https://github.com/leticiadasilva/leticiadasilva/blob/main/images/Hi.gif" width="30px">
 
-<code><img height="20" alt="Kotlin" src="https://raw.githubusercontent.com/brunolopesjn/brunolopesjn/main/img/kotlin.jpg"></code>
-<code><img height="20" alt="Go" src="https://raw.githubusercontent.com/brunolopesjn/brunolopesjn/main/img/golang.png"></code>
-<code><img height="20" alt="Python" src="https://raw.githubusercontent.com/brunolopesjn/brunolopesjn/main/img/python.png"></code>
-<code><img height="20" alt="Java" src="https://raw.githubusercontent.com/brunolopesjn/brunolopesjn/main/img/java.png"></code>
-<code><img height="20" alt="JavaScript" src="https://raw.githubusercontent.com/brunolopesjn/brunolopesjn/main/img/javascript.png"></code>
-<code><img height="20" alt="TypeScript" src="https://raw.githubusercontent.com/brunolopesjn/brunolopesjn/main/img/typescript.png"></code>
-<code><img height="20" alt="ZSH" src="https://raw.githubusercontent.com/brunolopesjn/brunolopesjn/main/img/zsh.png"></code>
+<code><img height="40" alt="Kotlin" src="https://raw.githubusercontent.com/brunolopesjn/brunolopesjn/main/img/kotlin.jpg"></code>
+<code><img height="40" alt="Go" src="https://raw.githubusercontent.com/brunolopesjn/brunolopesjn/main/img/golang.png"></code>
+<code><img height="40" alt="Python" src="https://raw.githubusercontent.com/brunolopesjn/brunolopesjn/main/img/python.png"></code>
+<code><img height="40" alt="Java" src="https://raw.githubusercontent.com/brunolopesjn/brunolopesjn/main/img/java.png"></code>
+<code><img height="40" alt="JavaScript" src="https://raw.githubusercontent.com/brunolopesjn/brunolopesjn/main/img/javascript.png"></code>
+<code><img height="40" alt="TypeScript" src="https://raw.githubusercontent.com/brunolopesjn/brunolopesjn/main/img/typescript.png"></code>
+<code><img height="40" alt="GNU/Linux" src="https://raw.githubusercontent.com/brunolopesjn/brunolopesjn/main/img/linux-logo.png"></code>
+<code><img height="40" alt="ZSH" src="https://raw.githubusercontent.com/brunolopesjn/brunolopesjn/main/img/shell.png"></code>
 
 <center>
   <table>
