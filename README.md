@@ -12,8 +12,8 @@
 <center>
   <table>
     <tr>
-        <td><img width="335px" align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=profbrunolopes&hide=html&layout=compact&theme=swift" /></td>
-        <td><img width="400px" align="left" src="https://github-readme-stats.vercel.app/api?username=profbrunolopes&theme=swift"/></td>
+        <td><img width="335px" align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=brunolopesjn&hide=html&layout=compact&theme=swift" /></td>
+        <td><img width="400px" align="left" src="https://github-readme-stats.vercel.app/api?username=brunolopesjn&theme=swift"/></td>
     </tr>   
   </table>
 </center> 
