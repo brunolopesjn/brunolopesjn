@@ -1,6 +1,6 @@
 # Olá! Seja bem vinde! <img src="https://github.com/leticiadasilva/leticiadasilva/blob/main/images/Hi.gif" width="30px">
 
-<code><img height="20" alt="Kotlin" src="https://raw.githubusercontent.com/profbrunolopes/main/img/kotlin.png"></code>
+<code><img height="20" alt="Kotlin" src="https://raw.githubusercontent.com/brunolopesjn/brunolopesjn/main/img/kotlin.jpg"></code>
 
 Meu nome é **Bruno Lopes**, mais conhecido como **Prof Bruno** ou simplesmente **Prof**. Atualmente atuo na [Trybe](https://betrybe.com) como Analista de Currículo, tenho experiência como professor universitário (Ciência da Computação, Engenharia de Computação e Análise e Desenvolvimento de Sistemas) e atuo na área de educação desde 2010.
 
