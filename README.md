@@ -19,7 +19,7 @@
 </center> 
 
 
-Meu nome é **Bruno Lopes**, mais conhecido como **Prof Bruno** ou simplesmente **Prof**. Atualmente atuo na [Trybe](https://betrybe.com) como Analista de Currículo, tenho experiência como professor universitário (Ciência da Computação, Engenharia de Computação e Análise e Desenvolvimento de Sistemas) e atuo na área de educação desde 2010.
+Meu nome é **Bruno Lopes**, mais conhecido como **Prof Bruno** ou simplesmente **Prof**. Atualmente atuo na [Universidade de Fortaleza](https://unifor.br) como Professor Auxiliar dos cursos de Ciência da Computação e Análise e Desenvolvimento de Sistemas e atuo na área de educação desde 2010.
 
 Sou mestre em Ciência da Computação pela Universidade Estadual do Ceará (UECE) e bacharel em Sistemas de Informação pela Faculdade de Juazeiro do Norte (FJN).
 
